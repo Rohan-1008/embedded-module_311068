@@ -1,6 +1,6 @@
 # Embedded-Activities_311068
 # SeatHeatingApplication
-# Activity_1
+# Activity-1
 ## If the person sit in the car seat then the ButtonSensor activate and if the person turns ON the heater then LED Glows
 
 |ON|OFF|
