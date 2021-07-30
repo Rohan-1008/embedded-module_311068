@@ -3,7 +3,7 @@ PROJ_NAME = activity
 BUILD_DIR = Build
 
 # All Source code files
-Main = project_main.c
+Main = main.c
 SRC = $(wildcard src/*.c) $(Main)
 
 
